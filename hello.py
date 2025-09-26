@@ -1,1 +1,1 @@
-print("Hello from Мунар!")
+print("Hello from Инабат!")
